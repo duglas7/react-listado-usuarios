@@ -1,7 +1,5 @@
 # Proyecto de Entrevista 
 
-Este Proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
-
 Puede abrir este proyecto por Github Pages aqui [Listado de Usuarios](https://duglas7.github.io/react-listado-usuarios/).
 
 
