@@ -2,6 +2,9 @@
 
 Este Proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
+Puede abrir este proyecto por Github Pages aqui [Listado de Usuarios](https://duglas7.github.io/react-listado-usuarios/).
+
+
 ## Como comenzar
 1. Clona este repositorio:
     ```git clone https://github.com/duglas7/react-listado-usuarios``` 
