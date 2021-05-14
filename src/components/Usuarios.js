@@ -58,7 +58,7 @@ const Usuarios = () => {
                   <img src={valor.picture.large} alt="" className="card-img" />
                   <div className="card-content">
                     <h1 className="card-header">
-                      <span>{valor.name.title}</span> {valor.name.first}
+                      <span>{valor.name.title}</span> {valor.name.first} {""}
                       {valor.name.last}
                     </h1>
                     <p className="card-text">
